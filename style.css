@@ -1,1 +1,13 @@
+body {
+  background-color: #CCF5DF;
+  color: #000000;
+  font-family: Consolas;
+  margin: 50px;
+}
 
+.exp-header {
+  text-transform: uppercase;
+  border-top: 3px double #000000;
+  border-bottom: 3px double #000000;
+  text-align: center;
+}
