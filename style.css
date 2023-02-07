@@ -7,12 +7,14 @@ body{
   position: absolute;
   top: 10px;
 }
+
 img{
    width: 20%;
   height: auto;
   float: right;
   border-radius: 25%;
 }
+
 .addy{
   position: absolute;
   top: 55px;
@@ -21,6 +23,7 @@ img{
   position: absolute;
   top: 190px;
 }
+
 .ppfinstall{
   position: absolute;
   top: 40px;
