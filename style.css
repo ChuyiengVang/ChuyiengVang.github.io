@@ -1,13 +1,67 @@
-body {
-  background-color: #CCF5DF;
-  color: #000000;
-  font-family: Consolas;
-  margin: 50px;
+body{
+  background-color: #DDDDDD;
+  font-family: Garamond;
 }
 
-.exp-header {
-  text-transform: uppercase;
-  border-top: 3px double #000000;
-  border-bottom: 3px double #000000;
-  text-align: center;
+.my-picture{
+  position: absolute;
+  top: 10px;
+}
+img{
+   width: 20%;
+  height: auto;
+  float: right;
+  border-radius: 25%;
+}
+.addy{
+  position: absolute;
+  top: 55px;
+}
+.experience{
+  position: absolute;
+  top: 190px;
+}
+.ppfinstall{
+  position: absolute;
+  top: 40px;
+  left: 300px;
+  width: 400px;
+  height: 100px;
+  background-color: black;
+  padding: 3px 4px 45px 7px;
+  color: white;
+}
+
+.aminstall{
+  position: absolute;
+  top: 180px;
+  left: 300px;
+  width: 400px;
+  height: 100px;
+  background-color: black;
+  padding: 3px 4px 45px 7px;
+  color: white;
+}
+
+.asmanag{
+  position: absolute;
+  top: 320px;
+  left: 300px;
+  width: 400px;
+  height: 100px;
+  background-color: black;
+  padding: 2px 7px 75px 4px;
+  color: white;
+}
+
+.highdip{
+  position: absolute;
+  top: 480px;
+  left: 300px;
+  width: 400px;
+  height: 100px;
+  background-color: black;
+  padding-right: 10px;
+  padding-top:40px;
+  color: white;
 }
