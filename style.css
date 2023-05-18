@@ -3,18 +3,6 @@ body{
   font-family: Garamond;
 }
 
-.my-picture{
-  position: absolute;
-  top: 10px;
-}
-
-img{
-   width: 20%;
-  height: auto;
-  float: right;
-  border-radius: 25%;
-}
-
 .addy{
   position: absolute;
   top: 55px;
